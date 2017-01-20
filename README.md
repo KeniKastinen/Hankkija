@@ -24,8 +24,7 @@ This is my free-time project and its very unfinished.
 
 ## Screen shots
 <img src="https://github.com/KeniKastinen/Hankkija/blob/master/Screenshot_20170120-115329.png" width="200">
-<img src="https://github.com/KeniKastinen/Hankkija/blob/master/Screenshot_20170120-115329.png
-" width="200">
+<img src="https://github.com/KeniKastinen/Hankkija/blob/master/Screenshot_20170120-115329.png" width="200">
 
 
 
