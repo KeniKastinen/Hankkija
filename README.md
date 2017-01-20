@@ -1,5 +1,5 @@
 
-# ![AppIcon](https://github.com/elisara/KellotusApp/blob/master/app/src/main/res/mipmap-hdpi/bottle.png) TaskuHankkija
+# ![AppIcon](https://github.com/KeniKastinen/Hankkija/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png) TaskuHankkija
 ```
 This app reads results from WhatsApp chat history and it shows statistics and diagrams based on results.
 
