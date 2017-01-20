@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="HANKKIJA"
+            android:textColor="@android:color/black"
+            android:textSize="60sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+       >
+        <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"/>
+
+        <FrameLayout
+            android:id="@+id/tikkikuva"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_weight="0.4">
+
+            <ImageView
+                android:id="@+id/tikki1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/tikki1"/>
+
+            <ImageView
+                android:id="@+id/tikki2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/tikki2"/>
+
+            <ImageView
+                android:id="@+id/tikki3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/tikki3"/>
+        </FrameLayout>
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

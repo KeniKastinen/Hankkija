@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325458593338",
+    "firebase_url": "https://taskuhankkija.firebaseio.com",
+    "project_id": "taskuhankkija",
+    "storage_bucket": "taskuhankkija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325458593338:android:4deb0992fc9c5b3e",
+        "android_client_info": {
+          "package_name": "com.keni.hankkija"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325458593338-qpn81khb3fe9v5vl2hoca5q3msu5c8k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keni.hankkija",
+            "certificate_hash": "83186772D52376F6B42F3026B9E34F4D9EF383B4"
+          }
+        },
+        {
+          "client_id": "325458593338-sd0a6dcensmt174maova2r8vhp08gv2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yJU3pw_3BTPWmAm1K4JXQfZE_Wef1C4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325458593338-sd0a6dcensmt174maova2r8vhp08gv2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

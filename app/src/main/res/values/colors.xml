@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f2f2f</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#ff9800</color>
+    <color name="primaryText">#ebebeb</color>
+    <color name="secondaryText">#a0a0a0</color>
+    <color name="black">#000000</color>
+    <color name="statusBar">#000000</color>
+    <color name="actionBar">#212121</color>
+
+
+</resources>
